@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridch&label=Profile+views&color=0e75b6&style=flat" alt="hridch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridch&title=Commits,Experience,Repositories" alt="hridch" /></a> </p>
-
 - 🌱 I'm currently learning **System Design, Microservices, Design Patterns, Kafka, Elasticsearch, Logstash, Kibana and Beats**
 
 - 💬 Ask me about **Spring Boot, JUnit, Mockito, PostgreSQL, MySQL, MongoDB, AWS (EC2, S3, RDS, ECS, VPC), Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana, React**
